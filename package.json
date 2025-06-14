@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.5",
+    "tailwindcss": "^4.1.10"
+  },
+  "dependencies": {
+    "emoji-picker-react": "^4.12.2",
+    "react-firebase-hooks": "^5.1.1"
+  }
+}
