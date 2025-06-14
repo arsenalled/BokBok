@@ -1,8 +1,8 @@
-# BokBok 💬 — Real-Time Chat App
+# BokBok — Real-Time Chat App
 
 A fully responsive real-time chat application built with **React**, **Firebase**, and **Tailwind CSS**, designed to mimic the smooth, clean user experience of WhatsApp — but with a modern dark-pink theme twist.
 
-## 🚀 Features
+## Features
 
 - 🔐 Google Sign-In Authentication (Firebase)
 - 💬 Real-time messaging (Firestore)
@@ -16,7 +16,7 @@ A fully responsive real-time chat application built with **React**, **Firebase**
 - ⚡ Loading & typing indicators
 - 🔄 Global dark mode state with context
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend:** React + Vite
 - **Styling:** Tailwind CSS
