@@ -27,5 +27,3 @@ A fully responsive real-time chat application built with **React**, **Firebase**
 
 👉 [Open App](https://bokbokchat.netlify.app)
 
-## 📁 Folder Structure
-
